@@ -1,5 +1,9 @@
 # Daily Learning
 
+## Morning Planning level one. 
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Morning Planning level two.
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
